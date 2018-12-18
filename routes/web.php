@@ -26,7 +26,3 @@ Route::get('/contact', function () {
 Route::get('/about', function () {
     return view('about');
 });
-
-Route::get('/layout', function () {
-    return view('layout');
-});

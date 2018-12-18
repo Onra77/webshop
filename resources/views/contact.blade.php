@@ -1,8 +1,7 @@
 @extends('layout')
 
-
 @section('content')
 
-    <h1>Rick & Morty</h1>
+    <h1>Contact</h1>
 
-@endsection
+    @endsection
