@@ -2,6 +2,21 @@
 
 @section('content')
 
-    <h1>Contact</h1>
+<div id="profile">
+<p>
+Over mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij 
+</p>
+</div>
 
-    @endsection
+<div id="blog"
+<p>
+    Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons 
+    Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons
+    Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons 
+</p>
+</div>
+
+
+
+@endsection
+
