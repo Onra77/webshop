@@ -2,18 +2,15 @@
 
 @section('content')
 
-<div id="profile">
+<div class="container blog"> 
+<div class="row">
+<div class="col-12 col-md-12 col-lg-12">
 <p>
-Over mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij mij 
+contact contact contact contact contact contact contact contact contact contact contact 
+   
 </p>
 </div>
-
-<div id="blog"
-<p>
-    Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons 
-    Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons
-    Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons Over ons 
-</p>
+</div>
 </div>
 
 

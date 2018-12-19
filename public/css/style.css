@@ -1,14 +1,14 @@
-* {
-    margin:0;
-    padding:0;
+body {
+    padding-top: 5rem;
 }
 
-#blog {
+
+div.container.blog {
     margin-left: 25%;
     background-color: lightblue;
     padding: 1%;
     border:3px solid grey;
-    margin-top: 5%;
+    
 }
 
 #form {
@@ -23,27 +23,20 @@
 }
 
 div.container.personal {
+    width:100%;
     background-color: lightblue;
     border:3px solid grey;
-   
 }
 
 div.container.profile {
-    
     margin-left: 0%;
+    width:20%;
     background-color: lightblue;
     padding: 1%;
     border:3px solid grey;
-    
 }
 
-body {
-    padding-top: 5rem;
-}
-
-#user {
-    width: 100%;
-    margin-left: 0%;
+div.container.user {
     background-color: rgb(128, 187, 197);
     position: fixed;
     top:0;
@@ -62,7 +55,7 @@ body {
 
 .input-icon {
     position: relative;
-  }
+}
   
   .input-icon > i {
     position: absolute;
@@ -73,19 +66,19 @@ body {
     width: 25px;
     text-align: center;
     font-style: normal;
-  }
+}
   
   .input-icon > input {
     padding-left: 25px;
     padding-right: 0;
-  }
+}
   
   .input-icon-right > i {
     right: 0;
-  }
+}
   
   .input-icon-right > input {
     padding-left: 0;
     padding-right: 25px;
     text-align: right;
-  }
+}
