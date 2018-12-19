@@ -8,9 +8,6 @@
 </head>
 <body>
 
-
-  
-
     <ul>
     <li><a href="welcome">Home</a></li>
     <li>Neem <a href="/contact">contact</a> met ons voor meer informatie.</li>
