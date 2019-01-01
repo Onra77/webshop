@@ -1,7 +1,11 @@
 @extends('layout')
 
+@section('title')
 
-</div>
+    Home - Webshop 
+
+@endsection 
+
 
 @section('content')
 

@@ -29,4 +29,4 @@ Route::get('/about', function () {
 
 Route::get('/personal', function () {
     return view('personal');
-});
+}); 

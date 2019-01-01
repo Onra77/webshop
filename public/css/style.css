@@ -1,14 +1,13 @@
 body {
-    padding-top: 5rem;
+    padding-top: 5%;
 }
 
 #blog {
-    width: 72%;
-    margin-left: 25%;
+    width: 77%;
     background-color: lightblue;
     padding: 1%;
     border:3px solid grey;
-    float:center;
+    float: right;
 }
 
 #form {

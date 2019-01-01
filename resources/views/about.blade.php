@@ -1,5 +1,12 @@
 @extends('layout')
 
+@section('title')
+
+    About Us - Webshop
+
+@endsection 
+
+
 @section('content')
 
 <div id="blog">
