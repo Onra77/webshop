@@ -8,6 +8,7 @@ body {
     padding: 1%;
     border:3px solid grey;
     float: right;
+    margin-right: 1%;
 }
 
 #form {
@@ -23,7 +24,7 @@ body {
 
 #personal {
     width: 90%;
-    margin-left: 5%;
+    margin-left: 1%;
     background-color: lightblue;
     padding: 1%;
     border:3px solid grey;

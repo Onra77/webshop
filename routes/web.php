@@ -13,13 +13,12 @@
 
 Route::get('/welcome', function () {
 
-    $tasks = [
+    $tasks = [ 
         'Go to the store', 
-
         'Go to the market',
-
-        'Go to work'
-
+        'Go to work',
+        'Go to gym',
+        'go to home'
     ];
 
     return view('welcome',[
