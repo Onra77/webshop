@@ -6,11 +6,9 @@
 <h1>Welkom!</h1>
 
 <ul>
-    @foreach ($tasks as $task)
-        <li>({ $task })</li>
+    @foreach ($tasks as $task) 
+        <li>{{ $task }}</li>
     @endforeach
 </ul>
-
 </div>
-
 @endsection
