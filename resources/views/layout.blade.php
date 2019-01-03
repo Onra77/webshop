@@ -16,7 +16,7 @@
     <input type="text" name="zoekbalk" placeholder="zoeken">
     <input name="zoek" type="submit" value="zoeken">  
     <input type="button" value="Login" onclick="location.href='/login';">
-    <input type="button" value="Home" onclick="location.href='/';">
+    <input type="button" value="Home" onclick="location.href='/welcome';">
     <input type="button" value="Contact" onclick="location.href='/contact';">
     <input type="button" value="Over ons" onclick="location.href='/about';">
     <input type="button" value="Ik" onclick="location.href='/personal';">
