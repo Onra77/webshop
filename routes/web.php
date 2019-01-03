@@ -14,11 +14,12 @@
 Route::get('/', function () {
 
     $tasks = [
-        'Go to the store',
+        'Go to the store', 
 
         'Go to the market',
 
         'Go to work'
+
     ];
 
     return view('welcome',[
@@ -26,9 +27,7 @@ Route::get('/', function () {
     ]);
 });
 
-Route::get('/welcome', function () {
-    return view('welcome');
-});
+
 
 Route::get('/contact', function () {
     return view('contact');
