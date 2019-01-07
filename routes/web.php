@@ -18,7 +18,7 @@ Route::get('/welcome', function () {
         'Go to the market',
         'Go to work',
         'Go to gym',
-        'go to home'
+        'Go to home'
     ];
 
     return view('welcome',[
